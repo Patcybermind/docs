@@ -206,4 +206,4 @@ Sometimes the newest version of the firmware will clear up occasional bugs.  Ple
 
 ### Windows Dual Boot
 
-If you are dual booting Windows, you may lose access to your wifi card entirely after running driver/OS updates in Windows. You may be able to gain access to your wifi card again by disabling "Fast Startup" in the Windows power options before booting back into Pop!_OS.
+If you are dual booting Windows, you may lose access to your wifi card entirely after running driver/OS updates in Windows. You may be able to gain access to your wifi card again by disabling "Fast Startup" in the Windows power options before booting back into Pop!_OS or by holding shift down and clicking turn off on windows.
